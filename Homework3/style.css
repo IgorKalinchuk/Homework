@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+
+.content {
+	width: 700px;
+	padding: 25px 70px;
+	background: white;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+.foto{
+		display: block;
+		margin: 0 auto;
+
+}
