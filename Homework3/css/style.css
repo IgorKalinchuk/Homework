@@ -3,21 +3,20 @@ p,ul,li,a{
 }
 
 /*HEADER*/
-h1{
+img{
  margin-bottom: 35px;
 }
 .header{
   display: inline-block;
   margin:5%;
-  padding: :30px;
-  	}
+}
 .header ul li a{
 	text-decoration: none;
 	color: white;
-	}
+}
 .menu ul{
 	height: 40px;
-	}
+}
 .menu li{
 	float: left;
 	padding: 10px 40px 10px 30px;
@@ -60,19 +59,18 @@ h1{
     box-sizing: border-box;
 		padding: 30px;
 		text-align: left;
-	}
+}
 
 	/*FOOTER*/
 .footer{
-	isplay: inline-block;
+	display: inline-block;
 	margin:5%;
-	padding: :30px;
 }
 .menu2 li{
 	float: left;
 	padding: 10px 40px 10px 30px;
 	background: #cccccc;
-	}
+}
 .footer ul li a{
 	text-decoration: none;
 	color: black;
